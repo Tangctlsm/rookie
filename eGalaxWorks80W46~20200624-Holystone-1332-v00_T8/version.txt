@@ -1,0 +1,9 @@
+eGalaxUpdate2			v3.0.7.8
+eGalaxSensorTester4		v1.1.3.1_200515
+eGalaxFPCTester			v1.0.6.8
+eGalax5960Suite			v1.0.6.7
+OPDraw				v2.1.4.2
+eGalaxCalibration		v1.0.4.7
+eGalaxTestAnalyzer		v1.0.1.3
+eGalaxBuilder5			v0.36.8.605
+eGalaxTuner_80HXXX		v1.0.2.8_200526

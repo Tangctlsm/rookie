@@ -1,0 +1,73 @@
+[07:34:26] 
+
+[07:34:26] eGalaxUpdate2 v3.0.6.7 (190502.154.73) -Demo
+[07:34:26] eGalaxUpdate2 Initialized.
+[07:34:26] Find touch controller: P80H46
+[07:34:26] - Model: Orion_0000_1332
+[07:34:26] - Version: 01_T3
+[07:34:26] Controller get EHQA level : 0x00
+[07:34:26] Touch controller connected.
+[07:34:27] Autorun Enabled.
+[07:34:27] Check FW Information before update 
+[07:34:27] Image Type: P80H46.
+[07:34:27] FW image get EHQA level : 0x00
+[07:34:27] Load Image OK
+[07:34:27] Reset controller Pass.
+[07:34:27] Wait controller disconnect.
+[07:34:27] Device disconnected for PnP process.
+[07:34:27] Wait controller disconnect success.
+[07:34:27] Wait controller PnP process.
+[07:34:28] Find touch controller: P80H46 Loader
+[07:34:28] - Status Code: 0x4000
+[07:34:28] - Model: P80H46 BFW
+[07:34:28] - Version: 1.10
+[07:34:28] Touch controller PnP Success.
+[07:34:28] Check loader state Pass.
+[07:34:31] Erase firmware Pass.
+[07:34:31] Download firmware.
+[07:34:31] Downloading... 01%
+[07:34:32] Downloading... 05%
+[07:34:32] Downloading... 09%
+[07:34:33] Downloading... 13%
+[07:34:33] Downloading... 17%
+[07:34:34] Downloading... 22%
+[07:34:34] Downloading... 26%
+[07:34:35] Downloading... 30%
+[07:34:35] Downloading... 34%
+[07:34:36] Downloading... 38%
+[07:34:36] Downloading... 42%
+[07:34:37] Downloading... 46%
+[07:34:37] Downloading... 50%
+[07:34:38] Downloading... 54%
+[07:34:38] Downloading... 58%
+[07:34:39] Downloading... 62%
+[07:34:39] Downloading... 66%
+[07:34:40] Downloading... 71%
+[07:34:40] Downloading... 75%
+[07:34:41] Downloading... 79%
+[07:34:41] Downloading... 83%
+[07:34:42] Downloading... 87%
+[07:34:42] Downloading... 91%
+[07:34:43] Downloading... 95%
+[07:34:43] Downloading... 99%
+[07:34:43] Download firmware Pass.
+[07:34:43] Verify download result Pass.
+[07:34:43] Reset controller Pass.
+[07:34:43] Wait controller disconnect.
+[07:34:43] Device disconnected for PnP process.
+[07:34:43] Wait controller disconnect success.
+[07:34:44] Wait controller PnP process.
+[07:34:45] Find touch controller: P80H46
+[07:34:45] - Model: Orion_0073_1332
+[07:34:45] - Version: 01_T5
+[07:34:45] Controller get EHQA level : 0x00
+[07:34:45] Touch controller PnP Success.
+[07:34:45] Check firmware state Pass.
+[07:34:45] Hardware calibration Pass.
+[07:34:45] Reset firmware Pass.
+[07:34:45] Current Device: ORION_0073_1332, 01_T5, 0XB826, 00.00, 0X9C9B
+[07:34:45] Target Device: ORION_0073_1332, 01_T5, 0XB826, 00.00, 0X9C9B
+[07:34:45] Verfication Pass.
+[07:34:45] Firmware update Success.
+[07:34:46] Application Exit
+[07:34:46] Firmware update resource release.

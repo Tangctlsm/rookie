@@ -1,0 +1,62 @@
+[17:11:31] 
+
+[17:11:31] eGalaxUpdate2 v3.0.6.7 (190502.154.73) -Demo
+[17:11:31] eGalaxUpdate2 Initialized.
+[17:11:31] Find touch controller: P80H46
+[17:11:31] - Model: Orion_0073_1332
+[17:11:31] - Version: 01_T5
+[17:11:31] Controller get EHQA level : 0x00
+[17:11:31] Touch controller connected.
+[17:11:31] Autorun Enabled.
+[17:11:31] Check FW Information before update 
+[17:11:31] Image Type: P80H46.
+[17:11:31] FW image get EHQA level : 0x00
+[17:11:31] Load Image OK
+[17:11:31] Reset controller Pass.
+[17:11:31] Wait controller disconnect.
+[17:11:31] Device disconnected for PnP process.
+[17:11:31] Wait controller disconnect success.
+[17:11:32] Wait controller PnP process.
+[17:11:33] Find touch controller: P80H46 Loader
+[17:11:33] - Status Code: 0x4000
+[17:11:33] - Model: P80H46 BFW
+[17:11:33] - Version: 1.14
+[17:11:33] Touch controller PnP Success.
+[17:11:33] Check loader state Pass.
+[17:11:35] Erase firmware Pass.
+[17:11:35] Download firmware.
+[17:11:35] Downloading... 00%
+[17:11:36] Downloading... 08%
+[17:11:36] Downloading... 15%
+[17:11:37] Downloading... 22%
+[17:11:37] Downloading... 29%
+[17:11:38] Downloading... 36%
+[17:11:38] Downloading... 43%
+[17:11:39] Downloading... 51%
+[17:11:39] Downloading... 58%
+[17:11:40] Downloading... 65%
+[17:11:40] Downloading... 72%
+[17:11:41] Downloading... 79%
+[17:11:41] Downloading... 86%
+[17:11:42] Downloading... 93%
+[17:11:42] Download firmware Pass.
+[17:11:42] Verify download result Pass.
+[17:11:42] Reset controller Pass.
+[17:11:42] Wait controller disconnect.
+[17:11:42] Device disconnected for PnP process.
+[17:11:42] Wait controller disconnect success.
+[17:11:43] Wait controller PnP process.
+[17:11:44] Find touch controller: P80H46
+[17:11:44] - Model: Orion_0073_1332
+[17:11:44] - Version: 01_T5
+[17:11:44] Controller get EHQA level : 0x00
+[17:11:44] Touch controller PnP Success.
+[17:11:44] Check firmware state Pass.
+[17:11:44] Hardware calibration Pass.
+[17:11:44] Reset firmware Pass.
+[17:11:44] Current Device: ORION_0073_1332, 01_T5, 0XB826, 00.00, 0X9C9B
+[17:11:44] Target Device: ORION_0073_1332, 01_T5, 0XB826, 00.00, 0X9C9B
+[17:11:44] Verfication Pass.
+[17:11:44] Firmware update Success.
+[17:11:45] Application Exit
+[17:11:45] Firmware update resource release.
